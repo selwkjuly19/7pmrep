@@ -1,1 +1,4 @@
-this is file3 in master
+this is file3  in master
+
+this is file3 in b1 branch
+
